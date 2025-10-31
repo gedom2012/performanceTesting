@@ -1,7 +1,7 @@
 ## 📌 Performance Testing
 
-Tool box contains **Grafana K6** scripts to perform performance tests
-These scripts are intended for learning more about this tool.
+- Tool box contains **Grafana K6** scripts to perform performance tests.
+- These scripts are intended for learning more about this tool.
 
 ---
 
